@@ -1,7 +1,7 @@
 # grouth mind
 
-* I think A **growth mindse** is believes that one’s fundamental abilities can be developed through perseverance and effort its 
-I reminder my self to be growth mindset and speak to my self
+*I think A **growth mindse** is believes that one’s fundamental abilities can be developed through perseverance and effort its 
+I reminder my self to be growth mindset and speak to my self*
 1. if i  felt pain i will learn
 2. I will learn new things. I am eager to take risk 
 3. Is this really my best work what else can i improve
