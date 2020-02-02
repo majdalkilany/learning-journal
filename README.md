@@ -9,3 +9,4 @@ I reminder my self to be growth mindset and speak to my self*
 ![growth mindset drives motivation and achievement](https://www.mindsetworks.com/Assets/images/science/the-science/the-growth-mindset-i-can-get-smarter.png)
 
 # Majd Alkilany
+**majdkilany92@gmail.com**
