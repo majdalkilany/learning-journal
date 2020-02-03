@@ -12,12 +12,14 @@ its open source and version control system
 
 **when we run the command gitremot -v we can see all the URLs next to their corresponding short names**
 
-we learn the difference between the get and get hub and how they connected and how we do thes i will try to summer in the following steps in command line
+### what i learn in lab03
+we learn the difference between the get and get hub and how they connected and how we do thes i will try to summer in the following steps in command line 
+
 *  pwd 
 * ls
 * git clone URLs for tje repo
 * cd file name
- *  code .
+* code .
 * git status 
 * git add file name.md
 * git commit -m " my message" 
