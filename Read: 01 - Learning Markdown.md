@@ -9,3 +9,4 @@ some example for markdowm
 
 **Markdown** supports emoji!
 
+*majdkilany92@gmail.com*
