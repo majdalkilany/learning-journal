@@ -12,13 +12,13 @@ of the most important features are:
 2. syntaxhighlighting;
 3. a nice variety of themes (to reduce eye strain and fatigue 
 4. the ability to choose from a healthy selection of
-extensions available when you need them. You might find some other
+extensions available when you need them.
+ You might find some other
 features that are must-have’s, but I think these features are a good
 start.
 **I don’t think that it truly matters as to which text editor you use. Yes,
 some text editing software comes with features that other text editing
 software does not. But for the most part, they’re all pretty similar.**
-
 
 ## The Command Line!
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
