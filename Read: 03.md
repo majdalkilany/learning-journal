@@ -1,7 +1,8 @@
-# Git intro 
+# W Git  
 **what is the Git**
 
-its version control system 
+*its open source and version control system 
+
 
 ## Git remot
 
