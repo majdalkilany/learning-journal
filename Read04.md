@@ -11,5 +11,11 @@ HTML is the standard markup language for creating Web pages and discribe the str
 
 **The tags are what separate normal text from HTML code. You might know them as the words between the <angle-brackets>. They allow all the cool stuff like images and tables**
 
+#### some example for tage
+
+<H1>	heading 1 <H1>Heading 1 Example</H1>	
+<HEAD>	heading of document	<HEAD>Contains elements describing the document</HEAD>	
+
+
 
 
