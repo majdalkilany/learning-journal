@@ -13,8 +13,10 @@ HTML is the standard markup language for creating Web pages and discribe the str
 
 #### some example for tage
 
-<H1>	heading 1 <H1>Heading 1 Example</H1>	
-<HEAD>	heading of document	<HEAD>Contains elements describing the document</HEAD>	
+<H1>	heading 1 <H1>Heading 1 Example	
+<HEAD>	heading of document	<HEAD>Contains elements describing the document
+
+<UL>	unordered list	
 
 
 
