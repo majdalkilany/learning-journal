@@ -18,3 +18,5 @@ Where there are three basic operations
 * input data, 
 * processing
 * output as information
+
+![mother bord](https://media.gcflearnfree.org/content/55e0730c7dd48174331f5164_01_17_2014/interior_motherboard.jpg)
