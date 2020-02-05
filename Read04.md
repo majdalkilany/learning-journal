@@ -13,9 +13,9 @@ HTML is the standard markup language for creating Web pages and discribe the str
 
 #### some example for tage
 Example
-<H1>	heading 1  	
-<HEAD>	heading of document
-<UL>	unordered list	
+H1 	heading 1  	
+HEAD	heading of document
+UL	unordered list	
 
 
 
